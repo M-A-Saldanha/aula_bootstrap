@@ -1,0 +1,40 @@
+body {
+    font-size: 20px;
+    font-family: 'Supermercado One', cursive;
+    padding: 0;
+    margin: 0;
+}
+
+.d-flex {
+    padding-left: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.sobre {
+    background-color: #2c3e50;
+    color: white;
+}
+
+.padding {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+.redes {
+    background-color: #34495e;
+    color: white;
+}
+
+.projetos {
+    background-color: #34345E;
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: whitesmoke;
+}
+.bg-footer a {
+    color: whitesmoke;
+}
